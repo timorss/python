@@ -19,3 +19,5 @@ sorted_chars = sorted(
     reverse=True)
 
 print(sorted_chars[0])
+
+print('ss',chars.items())
